@@ -1,0 +1,35 @@
+body{
+  background-color:aquamarine;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: bold;
+  font-size:large;
+  padding: 50px;
+  margin: 10px;
+}
+
+ul{
+  list-style: none;
+}
+
+h1{
+  text-align:left
+}
+
+img{
+  width:50%;
+  height:auto;
+  text-align: center;
+}
+
+.navbar{
+  position:fixed;
+  top:0;
+  width:100%;
+}
+
+.navbar a{
+  float:left;
+  display:block;
+  text-align: center;
+  padding:20px;
+}
