@@ -1,7 +1,7 @@
 body{
-  background-color:rgb(171, 221, 219);
+  background: linear-gradient(rgb(132, 232, 228), #e0b3f2);
   font-family:helvetica;
-  font-size:large;
+  font-size:x-large;
 }
 
 ul{
@@ -22,7 +22,7 @@ img{
   text-align: center;
 }
 
-.navbar{
+/* .navbar{
   position:fixed;
   top:0;
   width:100%;
@@ -36,7 +36,7 @@ img{
   color:#584460;
   font-size:25px;
   font-weight: 900;
-}
+} */
 
 .main{
   margin-top:30px;
