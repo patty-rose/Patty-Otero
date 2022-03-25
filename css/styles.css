@@ -2,10 +2,12 @@ body{
   background: linear-gradient(rgb(132, 232, 228), #e0b3f2);
   font-family:helvetica;
   font-size:x-large;
+  border:solid #584460;
 }
 
 ul{
-  list-style: none;
+  list-style:disc;
+  float: left;
 }
 
 ol{
@@ -39,7 +41,7 @@ img{
 } */
 
 .main{
-  margin-top:30px;
+  margin:10px;
   padding:50px;
   color:rgb(44, 47, 63);
 }
@@ -48,6 +50,9 @@ img{
   text-align: center;
 }
 
+.link{
+  color:#584460
+}
 #name{
   text-align:center;
   font-size:80px;
