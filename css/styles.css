@@ -1,7 +1,6 @@
 body{
   background-color:rgb(171, 221, 219);
-  font-family:Arial, Helvetica, sans-serif;
-  font-style: bold;
+  font-family:helvetica;
   font-size:large;
 }
 
@@ -14,7 +13,7 @@ h1{
 }
 
 img{
-  width:50%;
+  width:40%;
   height:auto;
   text-align: center;
 }
@@ -29,7 +28,7 @@ img{
 .navbar a{
   float:left;
   display:block;
-  padding:10px;
+  padding:20px;
   color:rgb(75, 45, 45);
   font-size:25px;
   font-weight: 900;
@@ -38,9 +37,14 @@ img{
 .main{
   margin-top:30px;
   padding:50px;
-  color:rgb(12, 35, 108);
+  color:rgb(44, 47, 63);
 }
 
 #name{
-  text-align: center;
+  text-align: left;
+  font-size:80px;
+}
+
+.toptitle{
+  float:center;
 }
