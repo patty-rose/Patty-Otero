@@ -4,6 +4,8 @@
 
 #### _A simple webpage to present Patty Otero's portfolio information and links._
 
+## Github pages site: (https://patty-rose.github.io/Patty-Otero/)
+
 ## Technologies Used
 
 * _HTML_
@@ -16,6 +18,7 @@ _This webpage presents information about Patty Otero and her programming experie
 
 ## Setup/Installation Requirements
 
+* View at Github pages site: (https://patty-rose.github.io/Patty-Otero/) or follow next steps
 * Clone this repository to your desktop
 * Get into your file explorer and go to the top of the directory
 * Open index.html in your browser
